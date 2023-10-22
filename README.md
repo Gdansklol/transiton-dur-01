@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# React with storybook
+
+```npm
+npx storybook@latest init
+```
+
+### run storybook
+
+```npm
+npm run storybook
+```
+- it opens on http://localhost:6006
+
+
+link : (https://storybook.js.org/docs/react/get-started/install)
 
 ### npm @storybook/react
 
